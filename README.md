@@ -11,6 +11,6 @@
 <br/>
 
 <a href="https://github.com/luucfr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luucfr&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucfr&theme=buefy&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luucfr&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucfr&theme=buefy&layout=compact" />
 </a>
