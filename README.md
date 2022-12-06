@@ -14,3 +14,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luucfr&theme=buefy&show_icons=true" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luucfr&theme=buefy&layout=compact" />
 </a> 
+
+cloudflared.exe service install eyJhIjoiMmZmZTAzNzI3ZTBiMDRlODA1NDAxNGM4YjIzMjkwMGYiLCJ0IjoiZGIzZmE5NDAtZWU3Ny00Y2JkLWFjM2EtNGU4YmU5N2MxZDBjIiwicyI6Ik5EWXdaRFV4TTJVdE1URXhPUzAwT0dVMUxXRmlOVFF0WVdVM05UVTFZekkwTmpVMyJ9
