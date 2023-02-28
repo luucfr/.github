@@ -3,7 +3,7 @@
 <h3>👨🏻‍💻 &nbsp;À propos de moi</h3>
 
 - 🤔 &nbsp; Explorer les nouvelles technologies et développer des solutions de déploiement rapides.
-- 🎓 &nbsp; Administrateur système informatique et cybersécurité.
+- 🎓 &nbsp; Administrateur d'infrastructures sécurisé (AIS).
 - 🌱 &nbsp; En savoir plus sur l'architecture cloud, la conception des systèmes et l'intelligence artificielle.
 
 
